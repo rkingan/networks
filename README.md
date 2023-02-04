@@ -1,6 +1,9 @@
 # networks
-c Elegans
+
+## c Elegans
 
 [Link to visualization of c Elegans connectome](https://www.opensourcebrain.org/projects/c302/repository/revisions/master/show/examples?explorer=https%253A%252F%252Fraw.githubusercontent.com%252Fopenworm%252Fc302%252Fmaster%252Fexamples%252Fc302_D_Full.net.nml)
 
 [Details on how the cover diagram was generated](cover-diagram.md)
+
+[Details on how the data for the Gephi and degree distribution plots were generated](generating-data.md)
