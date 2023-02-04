@@ -3,7 +3,7 @@ Generating data for the plots
 
 The files `name_neurons.txt` and `NeuronConnect.txt` both come from [wormweb.org](http://wormweb.org/). Links to both files and more information can be found in their [details page](http://wormweb.org/details.html).
 
-The file `CElegansNeuronTables-connectome.csv` was originally found in the [CElegansNeuroML](https://github.com/openworm/CElegansNeuroML) repository. The original file there has been updated since then and is now called `CElegansNeuronTables.xls`.
+The file `CElegansNeuronTables-connectome.csv` was originally found in the [CElegansNeuroML](https://github.com/openworm/CElegansNeuroML) repository. The original file (in Excel format) there has been updated since then and is now called `CElegansNeuronTables.xls`.
 
 The Jupyter notebook in this repository called `compare-and-compute-statistics.ipynb` goes through a detailed analysis of the data in the three files and contains detailed comments on each step. It also generates some useful output files:
 
